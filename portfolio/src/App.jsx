@@ -121,7 +121,7 @@ function HomePage() {
           <div className="contact-sidebar">
             <h3>Direct Contact</h3>
             <p>Prefer to discuss your vision immediately?</p>
-            <a href="https://wa.me/910000000000" target="_blank" rel="noreferrer" className="whatsapp-btn">
+            <a href="https://wa.me/918588945851" target="_blank" rel="noreferrer" className="whatsapp-btn">
               <FaWhatsapp size={24} /> Connect via WhatsApp
             </a>
             <div className="contact-details">
