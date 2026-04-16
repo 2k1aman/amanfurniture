@@ -101,7 +101,7 @@ function HomePage() {
         
         <div className="contact-container">
           {/* Formspree Integration */}
-          <form className="contact-form" action="https://formspree.io/f/your-formspree-id" method="POST">
+          <form className="contact-form" action="https://formspree.io/f/xqeweaja" method="POST">
             <div className="input-group">
               <input type="text" name="name" placeholder="Your Name" required />
             </div>
